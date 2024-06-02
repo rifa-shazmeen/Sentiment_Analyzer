@@ -47,3 +47,8 @@ SYLLABLE PER WORD
 PERSONAL PRONOUNS
 AVG WORD LENGTH
 Check out the output data structure spreadsheet for the format of your output, i.e. “Output Data Structure.xlsx
+Output : 
+<img width="998" alt="image" src="https://github.com/rifa-shazmeen/Sentiment_Analyzer/assets/107351827/b4bea4d6-9270-422b-becb-7f75149dc875">
+<img width="995" alt="image" src="https://github.com/rifa-shazmeen/Sentiment_Analyzer/assets/107351827/f0685694-0934-46c5-83f4-02d6ba268513">
+
+
